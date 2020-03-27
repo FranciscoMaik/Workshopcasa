@@ -1,0 +1,4 @@
+npm init -y (cria o arquivo .json)
+npm i express (instala o express - Responsavél pela renderização da página)
+npm i nodemon (instala o servidor nodemon - servidor para ficar rodando a aplicação)
+npm i nunjucks (instala o nunjucks - adicionar variáveis no html) 
